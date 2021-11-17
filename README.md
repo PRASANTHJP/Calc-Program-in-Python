@@ -1,2 +1,2 @@
 # Calc-Program-in-Python
-I am going to write a code for calculator Program in Python
+hi, This is Basic Calculator program in Python version 3.10..
