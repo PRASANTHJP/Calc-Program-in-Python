@@ -22,6 +22,7 @@ def divide(num1, num2):
 	return num1 / num2
 
 print("Please select operation -\n" 
+
 		"1. Addition\n" 
 		"2. Subtraction\n" 
 		"3. Multiply\n" 
