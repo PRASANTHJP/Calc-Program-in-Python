@@ -27,6 +27,7 @@ print("Please select operation -\n"
 		"2. Subtraction\n" 
 		"3. Multiply\n" 
 		"4. Dividion\n")
+print("thanks for Coming")
 
 
 # Take input from the user
